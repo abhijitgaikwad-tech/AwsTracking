@@ -1,0 +1,5 @@
+
+
+00 01 * * * /home/ubuntu/resource_tracking_script.sh  >>  /home/ubuntu/AWS_Tracker/file_$(date +\%Y\%m\%d_\%H\%M).txt
+
+
