@@ -3,7 +3,7 @@
 ###########################
 #Author:Abhijit
 #Date:15th May 2024
-#Version:V2
+#Version:V3
 #This script for monitor AWS resorce usage
 ###########################
 
